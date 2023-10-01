@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @th3hunt3erwithp4ti3nc3
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
